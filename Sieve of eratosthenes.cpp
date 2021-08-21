@@ -11,6 +11,6 @@ int main() {
    }
    for (int i = 2; i <= n; i++) {
       if (arr[i] == 0)
-        cout << i << "\t";
+        cout << i << " ";
    }
 }
